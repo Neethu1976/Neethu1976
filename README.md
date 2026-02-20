@@ -86,38 +86,7 @@ class Neethu:
 
 ---
 
-## 💼 Experience
 
-### 🏢 Software Intern — SFO Technologies, Kalamassery
-> 🗓️ Internship | Offline | Corporate Environment
-
-- Contributed to real-time software development projects
-- Worked with **.NET** and **SQL** for backend development
-- Gained exposure to **Angular** and industry-standard CI/CD workflows
-- Collaborated with cross-functional teams in an agile setup
-
----
-
-## 📜 Certifications
-
-| 🏅 Certification | 🏛️ Issuer |
-|---|---|
-| Fundamentals of Object Oriented Programming | NPTEL |
-| Cloud Computing Workshop (AWS, CI/CD, Containers, Security) | IIIT Kottayam |
-| IoT: From Concept to Creation | MACE & Ernst & Young |
-
----
-
-## 🎓 Education
-
-| 📚 Degree | 🏫 Institution | 📅 Year | 🏆 Score |
-|---|---|---|---|
-| MCA – AI Specialization | Mar Athanasius College of Engineering | 2024–2026 | CGPA: 7.63 |
-| B.Sc. Mathematics | Little Flower College, Guruvayoor | 2021–2024 | CGPA: 7.45 |
-| Higher Secondary – Bio Maths | State Board | 2019–2021 | 98% |
-| Secondary Education | CBSE | 2019 | 93.6% |
-
----
 
 ## 📫 Let's Connect
 
