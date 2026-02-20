@@ -21,10 +21,8 @@ class Neethu:
     def __init__(self):
         self.name       = "Neethu Seby P"
         self.degree     = "MCA – Artificial Intelligence"
-        self.college    = "Mar Athanasius College of Engineering, Kerala"
-        self.background = "B.Sc. Mathematics"
         self.location   = "Thrissur, Kerala, India"
-        self.interests  = ["Machine Learning", "Full-Stack Dev", "Data Science"]
+        self.interests  = ["Machine Learning",  "Data Science"]
         self.published  = True  # National Conference Paper 🎉
 
     def say_hi(self):
@@ -62,15 +60,7 @@ class Neethu:
 
 ---
 
-## 🚀 Featured Projects
 
-| 🗂️ Project | 🔧 Tech Stack | 📌 Highlights |
-|---|---|---|
-| 👟 **Shoe Booking System** | React, Node.js, MySQL | Full-stack app with auth, real-time inventory & admin dashboard |
-| 🌾 **Crop Prediction System** | Python, Scikit-learn, Pandas | Random Forest ML model using soil, weather & pH data |
-| 💻 **Laptop Price Prediction** | Machine Learning | Published at National Conference on Big Data Analysis (Nov 2024) |
-
----
 
 ## 📊 GitHub Stats
 
